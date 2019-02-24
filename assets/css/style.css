@@ -1,0 +1,5 @@
+/* Shortcode for showing minicart */
+.site-header-cart{width:100%;margin-right:0;margin-bottom:0}
+.site-header-cart .cart-contents {padding:0}
+.site-header-cart .widget_shopping_cart .product_list_widget li {padding: 1em}
+.site-header-cart span.quantity {display:block;margin-top:.1em}
